@@ -12,7 +12,7 @@
  </p></div>
 
 
-<div align='right'  style="margin-top:120px" ><img align='right' src='https://programming-gifs.cyclic.app' height="200" alt='hadihaider055/Programming-Gifs' style="margin-top:120px"></div>
+<div align='right'  style="margin-top:120px" ><img align='right' src='https://programming-gifs.cyclic.app' height="350" alt='hadihaider055/Programming-Gifs'></div>
 
 # <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
 
@@ -50,10 +50,10 @@
 
 ---
 
-<a href='https://github.com/hadihaider055/'>
+<-- <a href='https://github.com/hadihaider055/'>
 <div align='center'>
 <img src='https://github.com/hadihaider055/hadihaider055/blob/output/github-contribution-grid-snake.svg'/>
-</div></a>
+</div></a> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hadihaider055&theme=merko&point=24292e&area=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
