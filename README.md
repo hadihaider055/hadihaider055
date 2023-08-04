@@ -11,7 +11,6 @@
    <img src="https://profile-counter.glitch.me/hadihaider055/count.svg" align="center"/>
  </p></div> -->
 
-
 # <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
 
 <img align='right' src='https://programming-gifs.cyclic.app' height="250" alt='hadihaider055/Programming-Gifs'>
@@ -71,4 +70,4 @@
  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/hAVCE9b7TM-ZncdHK4Ci3g?identity__email=haiderhadi055@gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/hAVCE9b7TM-ZncdHK4Ci3g/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>May 29, 2023</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FhAVCE9b7TM-ZncdHK4Ci3g%3Fidentity__email%3Dhaiderhadi055gmail.com&amp;identity__email=haiderhadi055@gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote>
  
  
-[![@hadihaider055's Holopin board](https://holopin.me/hadihaider055)](https://holopin.io/@hadihaider055)
+<!-- [![@hadihaider055's Holopin board](https://holopin.me/hadihaider055)](https://holopin.io/@hadihaider055) -->
