@@ -12,7 +12,7 @@
  </p></div>
 
 
-<img align='right' src='https://programming-gifs.cyclic.app' height=200 alt='hadihaider055/Programming-Gifs' style="margin-top:120px">
+<div align='right'  style="margin-top:120px" ><img align='right' src='https://programming-gifs.cyclic.app' height=200 alt='hadihaider055/Programming-Gifs' style="margin-top:120px"></div>
 
 # <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
 
