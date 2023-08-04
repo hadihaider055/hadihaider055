@@ -11,7 +11,7 @@
    <img src="https://profile-counter.glitch.me/hadihaider055/count.svg" align="center"/> 
  </p></div>
 
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='hadihaider055/Programming-Gifs'></a>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='hadihaider055/Programming-Gifs' style="margin-top:12%"></a>
 
 # <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
 
