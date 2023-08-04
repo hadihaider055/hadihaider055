@@ -12,12 +12,12 @@
  </p></div>
 
 
-<div align='right'  style="margin-top:120px" ><img align='right' src='https://programming-gifs.cyclic.app' height="350" alt='hadihaider055/Programming-Gifs'></div>
-
 # <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
 
 <p style="max-width: 490px;">👋 Hello, I'm Hadi Haider🤍, an enthusiastic Web and app Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the Tech industry.
   Currently serving as a JAM and MERN stack position at Expedey situated in Karachi. Strong arts, design professional, and engineering professional. Studying Bachelor's degree focused in Computer Science from UIT University.</p>
+
+<img align='right' src='https://programming-gifs.cyclic.app' height="350" alt='hadihaider055/Programming-Gifs'>
 
 **Talking about Personal Stuffs:**
 
