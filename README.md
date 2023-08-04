@@ -55,7 +55,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hadihaider055&theme=merko&point=24292e&area=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align='center'>
-<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' /></div>
 
 ## 🏆 GitHub Trophies
 
