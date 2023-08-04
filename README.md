@@ -33,7 +33,7 @@
 
 <a href="https://www.linkedin.com/in/hadihaider055"><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="haiderhadi055@gmail.com"><img align="left" alt="My gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://twitter.com/hadihaider15" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="hadihaider055" height="30px" width="120px" /></a>
+<a href="https://twitter.com/hadihaider15" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30px" width="100px" /></a>
 <a href="https://hadi-haider.medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="hadihaider055" height="30px" width="100px" /></a>
 
 </div>
