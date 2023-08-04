@@ -30,14 +30,14 @@
 ## <img src='.github/workflows/tech.gif' height=60/> Socials:
 
 <div>
-
-<a href="https://www.linkedin.com/in/hadihaider055" target="blank"><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="mailto:haiderhadi055@gmail.com" target="blank"><img align="left" alt="My gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://twitter.com/hadihaider15" target="blank"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30px" width="100px" /></a>
-<a href="https://hadi-haider.medium.com/" target="blank"><img align="left" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="hadihaider055" height="30px" width="100px" /></a>
-
-
+<a href="https://www.linkedin.com/in/hadihaider055" target="__blank"><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="mailto:haiderhadi055@gmail.com" target="__blank"><img align="left" alt="My gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://twitter.com/hadihaider15" target="__blank"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30px" width="100px" /></a>
+<a href="https://hadi-haider.medium.com/" target="__blank"><img align="left" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="hadihaider055" height="30px" width="100px" /></a>
 </div>
+
+<br />
+<br />
 
 ## <img src='https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif' height=40/> Tech Stack:
 
