@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Hadi%20Haider%20Here🤍&fontSize=40&height=120&width=100%&section=header"/>
-</p></a>
+</p>
 
 <div align='center'>
 <p align="center"> 
@@ -11,7 +11,7 @@
    <img src="https://profile-counter.glitch.me/hadihaider055/count.svg" align="center"/> 
  </p></div>
 
-<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='hadihaider055/Programming-Gifs' style="margin-top:12%"></a>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='hadihaider055/Programming-Gifs' style="margin-top:12%">
 
 # <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
 
