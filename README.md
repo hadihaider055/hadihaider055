@@ -11,15 +11,16 @@
    <img src="https://profile-counter.glitch.me/hadihaider055/count.svg" align="center"/> 
  </p></div>
 
-<img align='right' style="margin-top:132px !important; padding-top:132px;" src='https://programming-gifs.cyclic.app' height=200 alt='hadihaider055/Programming-Gifs' >
-
 # <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
 
-- 👋 Hello, I'm Hadi Haider🤍, an enthusiastic Software Engineer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the Tech industry.
+- 👋 Hello, I'm Hadi Haider🤍, an enthusiastic Web and app Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the Tech industry.
   Currently serving as a JAM and MERN stack position at Expedey situated in Karachi. Strong arts, design professional, and engineering professional. Studying Bachelor's degree focused in Computer Science from UIT University.
+
+<img align='right' src='https://programming-gifs.cyclic.app' height=200 alt='hadihaider055/Programming-Gifs' style="margin-top:120px">
+
 - 🔭 I’m currently working on enhancing my backend skills
 - 🌱 I’m currently learning Rust, which is my new love
-- 💬 Ask me about Javascript, Typescript, React, Next, AWS Serverless orchestration, GitHub, and anything related to programming
+- 💬 Ask me about Javascript, Typescript, React, Next, AWS Serverless orchestration, Rust, GitHub, and anything related to programming
 
 ---
 
