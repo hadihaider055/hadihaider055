@@ -11,13 +11,12 @@
    <img src="https://profile-counter.glitch.me/hadihaider055/count.svg" align="center"/> 
  </p></div>
 
+<img align='right' src='https://programming-gifs.cyclic.app' height="350" alt='hadihaider055/Programming-Gifs'>
 
 # <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
 
 <p style="max-width: 490px;">👋 Hello, I'm Hadi Haider🤍, an enthusiastic Web and app Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the Tech industry.
   Currently serving as a JAM and MERN stack position at Expedey situated in Karachi. Strong arts, design professional, and engineering professional. Studying Bachelor's degree focused in Computer Science from UIT University.</p>
-
-<img align='right' src='https://programming-gifs.cyclic.app' height="350" alt='hadihaider055/Programming-Gifs'>
 
 **Talking about Personal Stuffs:**
 
@@ -49,11 +48,6 @@
 | [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) | [![GitHub Streak](https://streak-stats.demolab.com?user=hadihaider055&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/hadihaider055/) | [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) |
 
 ---
-
-<-- <a href='https://github.com/hadihaider055/'>
-<div align='center'>
-<img src='https://github.com/hadihaider055/hadihaider055/blob/output/github-contribution-grid-snake.svg'/>
-</div></a> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hadihaider055&theme=merko&point=24292e&area=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
