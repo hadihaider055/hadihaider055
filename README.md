@@ -1,7 +1,5 @@
   <img align="center" src=".github/workflows/bg.gif"  height=350px width=100%>
 
-    <a href="https://linkedin.com/in/hadi-haider" target="_blank">
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Hadi%20Haider%20Here🤍&fontSize=40&height=120&width=100%&section=header"/>
 </p></a>
@@ -52,7 +50,7 @@
 <img src='https://github.com/hadihaider055/hadihaider055/blob/output/github-contribution-grid-snake.svg'/>
 </div></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hadihaider055&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hadihaider055)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align='center'>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
