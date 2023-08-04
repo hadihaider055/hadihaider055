@@ -18,8 +18,10 @@
 
 <img align='right' src='https://programming-gifs.cyclic.app' height=200 alt='hadihaider055/Programming-Gifs' style="margin-top:120px">
 
-- 🔭 I’m currently working on enhancing my backend skills
-- 🌱 I’m currently learning Rust, which is my new love
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍🌱 I’m currently working on enhancing my backend skills
+- 🔭 I’m currently learning Rust, which is my new love
 - 💬 Ask me about Javascript, Typescript, React, Next, AWS Serverless orchestration, Rust, GitHub, and anything related to programming
 
 ---
