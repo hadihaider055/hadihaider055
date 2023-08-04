@@ -1,4 +1,4 @@
-    <img align="center" src=".github/workflows/bg.gif"  height=350px width=100%>
+  <img align="center" src=".github/workflows/bg.gif"  height=350px width=100%>
 
     <a href="https://linkedin.com/in/hadi-haider" target="_blank">
 
@@ -6,11 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Hadi%20Haider%20Here🤍&fontSize=40&height=120&width=100%&section=header"/>
 </p></a>
 
-<!-- ![GitHub Account Ranking in Pakistan](https://user-badge.committers.top/pakistan/hadihaider055.svg) -->
-
-<!-- <div align='center'>
-<a href="https://github.com/samadpls/Islamic-qoutes"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=Python+%7C+Data+Analyst+%7C+CHISEL+%7C+HTML+%26+CSS+%7C" alt="Typing SVG" />
-</a></div><br> -->
 <div align='center'>
 <p align="center"> 
    Visitor count:
@@ -18,15 +13,12 @@
    <img src="https://profile-counter.glitch.me/hadihaider055/count.svg" align="center"/> 
  </p></div>
 
-<a href='https://github.com/hadihaider055/Programing-Gifs'>
 <img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=200 alt='hadihaider055/Programming-Gifs'></a>
 
 # <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
 
 - 👋 Hello, I'm Hadi Haider🤍, a enthusiastic Web and app Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow and excel in the Tech industry.
   Currently serving as a JAM and MERN stack position at Expedey situated in Karachi. Strong arts, design professional, and engineering professional. Studying Bachelor's degree focused in Computer Science from UIT University.
-
-<img align='right' src='profile-3d-contrib/profile-night-green.svg' height=200>
 
 - 🔭 I’m currently working on enhancing my backend skills
 - 🌱 I’m currently learning Rust, which is my new love
@@ -37,10 +29,10 @@
 ## <img src='.github/workflows/tech.gif' height=60/> Socials:
 
 <div>
- <a href="https://www.linkedin.com/in/hadihaider055" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/hadihaider15" target="blank" ><img align="center" src="https://img.shields.io/twitter/follow/hadihaider15?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=blue&label=Twitter" alt="hadihaider055" height="30px" width="120px" /></a>
+<a href="https://www.linkedin.com/in/hadihaider055" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="haiderhadi055@gmail.com"><img align="left" alt="My gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://hadi-haider.medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="hadihaider055" height="30px" width="100px" /></a>
-<a href="https://twitter.com/hadihaider15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hadihaider055" height="30" width="40" /></a>
+<a href="https://hadi-haider.medium.com/" target="blank" style="margin-left:-30px;"><img align="center" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="hadihaider055" height="30px" width="100px" /></a>
 </div>
 
 ## <img src='.github/workflows/tech.gif' height=60/> Tech Stack:
