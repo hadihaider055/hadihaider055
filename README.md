@@ -11,9 +11,10 @@
    <img src="https://profile-counter.glitch.me/hadihaider055/count.svg" align="center"/>
  </p></div> -->
 
-<img align='right' src='https://programming-gifs.cyclic.app' height="250" alt='hadihaider055/Programming-Gifs'>
 
 # <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
+
+<img align='right' src='https://programming-gifs.cyclic.app' height="250" alt='hadihaider055/Programming-Gifs'>
 
 <p style="max-width: 490px;">👋 Hello, I'm Hadi Haider🤍, an enthusiastic Web and app Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the Tech industry.
   Currently serving as a JAM and MERN stack position at Expedey situated in Karachi. Strong arts, design professional, and engineering professional. Studying Bachelor's degree focused in Computer Science from UIT University.</p>
