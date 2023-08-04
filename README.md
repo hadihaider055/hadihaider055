@@ -1,15 +1,15 @@
-  <img align="center" src=".github/workflows/bg.gif"  height=350px width=100%>
+  <!-- <img align="center" src=".github/workflows/bg.gif"  height=350px width=100%> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Hadi%20Haider%20Here%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%A4%8D&fontSize=40&height=140&width=100%&section=header"/>
 </p>
 
-<div align='center'>
+<!-- <div align='center'>
 <p align="center"> 
    Visitor count:
-   
-   <img src="https://profile-counter.glitch.me/hadihaider055/count.svg" align="center"/> 
- </p></div>
+
+   <img src="https://profile-counter.glitch.me/hadihaider055/count.svg" align="center"/>
+ </p></div> -->
 
 <img align='right' src='https://programming-gifs.cyclic.app' height="250" alt='hadihaider055/Programming-Gifs'>
 
@@ -37,7 +37,7 @@
 
 </div>
 
-## <img src='.github/workflows/tech.gif' height=60/> Tech Stack:
+## <img src='https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif' height=60/> Tech Stack:
 
 <div align='center'>
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,gatsby,html,css,git,postman,mongodb,nodejs,express,rust,graphql,solidity,aws,sass,redux,firebase,figma" />
