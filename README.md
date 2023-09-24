@@ -11,7 +11,7 @@
    <img src="https://profile-counter.glitch.me/hadihaider055/count.svg" align="center"/>
  </p></div> -->
 
-# <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
+# <img src='/.github/workflows/flyingcat.gif' height=65/> About Me:
 
 <img align='right' src='https://programming-gifs.cyclic.app' height="250" alt='hadihaider055/Programming-Gifs'>
 
@@ -26,7 +26,7 @@
 
 ---
 
-## <img src='.github/workflows/tech.gif' height=60/> Socials:
+## <img src='/.github/workflows/tech.gif' height=60/> Socials:
 
 <div>
 <a href="https://www.linkedin.com/in/hadihaider055" target="__blank"><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
@@ -46,7 +46,7 @@
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,gatsby,html,css,git,postman,mongodb,nodejs,express,rust,graphql,solidity,aws,sass,redux,firebase,figma" />
 </div>
 
-| Stats <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                   | Streak <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                                                                                                                                           | Languages <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                            |
+| Stats <img src='/.github/workflows/cartoon1.gif' height=20/>                                                                                   | Streak <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                                                                                                                                           | Languages <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) | [![GitHub Streak](https://streak-stats.demolab.com?user=hadihaider055&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/hadihaider055/) | [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) |
 
