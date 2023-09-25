@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Hadi%20Haider%20Here%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%A4%8D&fontSize=40&height=140&width=100%&section=header"/>
 </p>
 
-# <img src='.github/workflows/flyingcat.gif' height="65" /> About Me:
+# <img src='.github/workflows/flyingcat.gif' height=65 /> About Me:
 
 <img align='right' src='https://programming-gifs.cyclic.app' height="250" alt='hadihaider055/Programming-Gifs'>
 
@@ -17,7 +17,7 @@
 
 ---
 
-## <img src='.github/workflows/tech.gif' /> Socials:
+## <img src='.github/workflows/tech.gif' height=60 /> Socials:
 
 <div>
 <a href="https://www.linkedin.com/in/hadihaider055" target="__blank"><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
@@ -31,13 +31,13 @@
 <br />
 <br />
 
-## <img src='https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif' height="40" /> Tech Stack:
+## <img src='https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif' height=40 /> Tech Stack:
 
 <div align='center'>
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,gatsby,html,css,git,postman,mongodb,nodejs,express,rust,graphql,solidity,aws,sass,redux,firebase,figma" />
 </div>
 
-| Stats <img src='.github/workflows/cartoon1.gif' height="20" />                                                                                   | Streak <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                                                                                                                                           | Languages <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                            |
+| Stats <img src='.github/workflows/cartoon1.gif' height=20 />                                                                                   | Streak <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                                                                                                                                           | Languages <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) | [![GitHub Streak](https://streak-stats.demolab.com?user=hadihaider055&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/hadihaider055/) | [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) |
 
@@ -51,7 +51,7 @@
 ## 🏆 GitHub Trophies
 
 <div align='center'>
-<img src='https://github-profile-trophy.vercel.app/?username=hadihaider055&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width="75%" />
+<img src='https://github-profile-trophy.vercel.app/?username=hadihaider055&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75% />
 <div>
 
 ---
