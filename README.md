@@ -17,7 +17,7 @@
 
 ---
 
-## <img src='.github/workflows/tech.gif' height="60" /> Socials:
+## <img src='.github/workflows/tech.gif' /> Socials:
 
 <div>
 <a href="https://www.linkedin.com/in/hadihaider055" target="__blank"><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
@@ -51,7 +51,7 @@
 ## 🏆 GitHub Trophies
 
 <div align='center'>
-<img src='https://github-profile-trophy.vercel.app/?username=hadihaider055&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75%/>
+<img src='https://github-profile-trophy.vercel.app/?username=hadihaider055&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width="75%" />
 <div>
 
 ---
