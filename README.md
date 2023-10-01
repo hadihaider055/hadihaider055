@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Hadi%20Haider%20Here%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%A4%8D&fontSize=40&height=140&width=100%&section=header"/>
 </p>
 
-<img src='.github/workflows/flyingcat.gif' height=65 /> 
-# About Me:
+<p>## <img src='.github/workflows/flyingcat.gif' height=65 /> About Me: </p>
+
 
 <img align='right' src='https://programming-gifs.cyclic.app' height="250" alt='hadihaider055/Programming-Gifs'>
 
