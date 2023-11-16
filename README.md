@@ -3,7 +3,7 @@
 </p>
 
 
-## <img src='.github/workflows/flyingcat.gif' /> About Me:
+## <img src='https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif' height=20 /> About Me:
 
 
 <img align='right' src='https://programming-gifs.cyclic.app' height="250" alt='hadihaider055/Programming-Gifs'>
@@ -19,7 +19,7 @@
 
 ---
 
-## <img src='.github/workflows/tech.gif' height=60 /> Socials:
+## <img src='.github/workflows/tech.gif' height=40 /> Socials:
 
 <div>
 <a href="https://www.linkedin.com/in/hadihaider055" target="__blank"><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
@@ -33,7 +33,7 @@
 <br />
 <br />
 
-## <img src='https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif' height=40 /> Tech Stack:
+## <img src='https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif' height=30 /> Tech Stack:
 
 <div align='center'>
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,gatsby,html,css,git,postman,mongodb,nodejs,express,rust,graphql,solidity,aws,sass,redux,firebase,figma" />
