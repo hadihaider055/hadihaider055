@@ -39,6 +39,12 @@
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,gatsby,html,css,git,postman,mongodb,nodejs,express,rust,graphql,solidity,aws,sass,redux,firebase,figma" />
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align='center'>
+<img src='https://github-profile-trophy.vercel.app/?username=hadihaider055&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75% />
+<div>
+
 | Stats <img src='.github/workflows/cartoon1.gif' height=20 />                                                                                   | Streak <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                                                                                                                                           | Languages <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) | [![GitHub Streak](https://streak-stats.demolab.com?user=hadihaider055&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/hadihaider055/) | [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) |
@@ -47,20 +53,18 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hadihaider055&theme=merko&point=24292e&area=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!--
 <div align='center'>
 <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' /></div>
+-->
 
-## 🏆 GitHub Trophies
 
-<div align='center'>
-<img src='https://github-profile-trophy.vercel.app/?username=hadihaider055&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75% />
-<div>
 
 ---
 
-<img src='.github/workflows/thanks.svg'/>
+<!-- <img src='.github/workflows/thanks.svg'/>
 
- <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/hAVCE9b7TM-ZncdHK4Ci3g?identity__email=haiderhadi055@gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/hAVCE9b7TM-ZncdHK4Ci3g/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>May 29, 2023</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FhAVCE9b7TM-ZncdHK4Ci3g%3Fidentity__email%3Dhaiderhadi055gmail.com&amp;identity__email=haiderhadi055@gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote>
+ <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/hAVCE9b7TM-ZncdHK4Ci3g?identity__email=haiderhadi055@gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/hAVCE9b7TM-ZncdHK4Ci3g/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>May 29, 2023</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FhAVCE9b7TM-ZncdHK4Ci3g%3Fidentity__email%3Dhaiderhadi055gmail.com&amp;identity__email=haiderhadi055@gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote> -->
  
  
 <!-- [![@hadihaider055's Holopin board](https://holopin.me/hadihaider055)](https://holopin.io/@hadihaider055) -->
