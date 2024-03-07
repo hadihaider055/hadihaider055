@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20Hadi%20Haider%20Here%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%A4%8D&fontSize=40&height=140&width=100%&section=header"/>
 </p>
 
-
 ## <img src='https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif' height=20 /> About Me:
-
 
 <img align='right' src='https://programming-gifs.cyclic.app' height="250" alt='hadihaider055/Programming-Gifs'>
 
@@ -33,11 +31,17 @@
 <br />
 <br />
 
-## <img src='https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif' height=30 /> Tech Stack:
+## <img src='https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif' height=20 /> Tech Stack:
 
 <div align='center'>
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,gatsby,html,css,git,postman,mongodb,nodejs,express,rust,graphql,solidity,aws,sass,redux,firebase,figma" />
 </div>
+
+## <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhocm45OHJ2eDYycXZkdDR5Zm5sNjNzemEycHJzejg2aWh3bHd6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif' height=20 /> GitHub Stats
+
+| Stats <img src='.github/workflows/cartoon1.gif' height=20 />                                                                                  | Streak <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                                          | Languages <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) | [![GitHub Streak](https://streak-stats.demolab.com?user=hadihaider055&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/hadihaider055/) | [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) |
 
 ## 🏆 GitHub Trophies
 
@@ -45,26 +49,4 @@
 <img src='https://github-profile-trophy.vercel.app/?username=hadihaider055&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75% />
 <div>
 
-| Stats <img src='.github/workflows/cartoon1.gif' height=20 />                                                                                   | Streak <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                                                                                                                                           | Languages <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) | [![GitHub Streak](https://streak-stats.demolab.com?user=hadihaider055&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/hadihaider055/) | [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) |
-
 ---
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hadihaider055&theme=merko&point=24292e&area=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--
-<div align='center'>
-<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' /></div>
--->
-
-
-
----
-
-<!-- <img src='.github/workflows/thanks.svg'/>
-
- <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/hAVCE9b7TM-ZncdHK4Ci3g?identity__email=haiderhadi055@gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/hAVCE9b7TM-ZncdHK4Ci3g/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>May 29, 2023</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FhAVCE9b7TM-ZncdHK4Ci3g%3Fidentity__email%3Dhaiderhadi055gmail.com&amp;identity__email=haiderhadi055@gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote> -->
- 
- 
-<!-- [![@hadihaider055's Holopin board](https://holopin.me/hadihaider055)](https://holopin.io/@hadihaider055) -->
