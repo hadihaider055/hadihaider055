@@ -34,7 +34,7 @@
 ## <img src='https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif' height=20 /> Tech Stack:
 
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,gatsby,html,css,git,postman,mongodb,nodejs,express,rust,graphql,solidity,aws,sass,redux,firebase,figma" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,gatsby,html,css,git,postman,mongodb,postgres,nodejs,express,rust,graphql,solidity,aws,sass,redux,tauri,prisma,firebase,figma" />
 </div>
 
 ## <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhocm45OHJ2eDYycXZkdDR5Zm5sNjNzemEycHJzejg2aWh3bHd6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif' height=20 /> GitHub Stats
