@@ -6,8 +6,7 @@
 
 <img align='right' src='https://programming-gifs.cyclic.app' height="250" alt='hadihaider055/Programming-Gifs'>
 
-<p style="max-width: 490px;">👋 Hello, I'm Hadi Haider🤍, an enthusiastic Web and app Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the Tech industry.
-  Currently serving as a JAM and MERN stack position at Expedey situated in Karachi. Strong arts, design professional, and engineering professional. Studying Bachelor's degree focused in Computer Science from <a href="https://www.uitu.edu.pk/">Usman Institute of Technology</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and contributing to open-source. Currently, I am Dev Lead and a proud core team member of <a href="https://gdscuit.web.app/">DSCUIT</a></p>
+<p style="max-width: 490px;">👋 Hello, I'm Hadi Haider🤍, an enthusiastic Web and app Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the Tech industry. Strong arts, design professional, and engineering professional. Studying Bachelor's degree focused in Computer Science from <a href="https://www.uitu.edu.pk/">Usman Institute of Technology</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and contributing to open-source. Currently, I am Dev Lead and a proud core team member of <a href="https://gdscuit.web.app/">DSCUIT</a></p>
 
 **Talking about Personal Stuffs:**
 
