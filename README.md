@@ -4,7 +4,7 @@
 
 ## <img src='https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif' height=20 /> About Me:
 
-<img align='right' src='https://camo.githubusercontent.com/16f93ae6e1e6ec4e43289b79099f62e62361e750ad5d9754395bb8aa4b9081fc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966' height="250" alt='hadihaider055/Programming-Gifs'>
+<img align='right' src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif' height="250" alt='Programming-Gifs'>
 
 <p style="max-width: 490px;">👋 Hello, I'm Hadi Haider🤍, an enthusiastic Web and app Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the Tech industry. Strong arts, design professional, and engineering professional. Studying for a Bachelor's degree focused in Computer Science from <a href="https://www.uitu.edu.pk/">Usman Institute of Technology</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and contributing to open-source. Currently, I am Dev Lead and a proud core team member of <a href="https://gdscuit.web.app/">DSCUIT</a></p>
 
