@@ -10,9 +10,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍🌱 I’m currently working on enhancing my backend skills
+- 👨🏽‍🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages
 - 🔭 I’m currently learning Rust, which is my new love
 - 💬 Ask me about Javascript, Typescript, React, Next, AWS Serverless orchestration, Rust, GitHub, and anything related to programming
+- 🥅 2025 Goals: I want to contribute more to Open-Source projects, which I couldn't do much of in 2024
 
 ---
 
