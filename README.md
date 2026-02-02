@@ -6,14 +6,14 @@
 
 <img align='right' src='https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif' height="250" alt='Programming-Gifs'>
 
-<p style="max-width: 490px;">👋 Hello, I'm Hadi Haider🤍, an enthusiastic Web and app Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the Tech industry. Strong arts, design professional, and engineering professional. Studying for a Bachelor's degree focused in Computer Science from <a href="https://www.uitu.edu.pk/">Usman Institute of Technology</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and contributing to open-source. Currently, I am Dev Lead and a proud core team member of <a href="https://gdscuit.web.app/">DSCUIT</a></p>
+<p style="max-width: 490px;">👋 Hello, I'm Hadi Haider🤍, an enthusiastic Full Stack Web and App Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the Tech industry. Strong arts, design professional, and engineering professional. I graduated with a Bachelor's degree in Computer Science from <a href="https://www.uitu.edu.pk/">Usman Institute of Technology</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and contributing to open-source. I served as Dev Lead and Lead at <a href="https://gdscuit.web.app/">GDGOC UIT</a> (formerly DSCUIT) and currently serving as a mentor.</p>
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages
-- 🔭 I’m currently learning Rust, which is my new love
-- 💬 Ask me about Javascript, Typescript, React, Next, AWS Serverless orchestration, Rust, GitHub, and anything related to programming
-- 🥅 2025 Goals: I want to contribute more to Open-Source projects, which I couldn't do much of in 2024
+-   👨🏽‍🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages
+-   🔭 I’m currently learning Rust, which is my new love
+-   💬 Ask me about JavaScript, TypeScript, React, Next.js, AWS Serverless orchestration, Rust, Docker, and anything related to programming
+-   🥅 2026 Goals: Contribute more to Open-Source projects and build scalable systems
 
 ---
 
@@ -34,19 +34,5 @@
 ## <img src='https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif' height=20 /> Tech Stack:
 
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,gatsby,html,css,git,postman,mongodb,postgres,nodejs,express,rust,graphql,solidity,aws,sass,redux,tauri,prisma,firebase,figma" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,rust,python,nodejs,express,aws,prisma,firebase,graphql,solidity,mongodb,postgres,redis,docker,react,next,gatsby,redux,tauri" />
 </div>
-
-## <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhocm45OHJ2eDYycXZkdDR5Zm5sNjNzemEycHJzejg2aWh3bHd6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif' height=20 /> GitHub Stats
-
-| Stats <img src='.github/workflows/cartoon1.gif' height=20 />                                                                                  | Streak <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                                          | Languages <img src='.github/workflows/cartoon1.gif' height=20/>                                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) | [![GitHub Streak](https://streak-stats.demolab.com?user=hadihaider055&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/hadihaider055/) | [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hadihaider055&theme=gruvbox)](https://github.com/hadihaider055/) |
-
-## 🏆 GitHub Trophies
-
-<div align='center'>
-<img src='https://github-profile-trophy.vercel.app/?username=hadihaider055&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75% />
-<div>
-
----
